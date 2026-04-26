@@ -1,1 +1,1 @@
-# Zone
+# Solana validator snapshot keeper
