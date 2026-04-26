@@ -1,12 +1,1 @@
-
-.anchor
-target
-**/*.rs.bk
-node_modules
-test-ledger
-.yarn
-
-
-# Added by cargo
-
 /target
